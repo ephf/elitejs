@@ -1,0 +1,28 @@
+{
+  "name": "elitejs",
+  "version": "1.2.1",
+  "description": "Simple DOM tool",
+  "main": "elite.min.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ephf/elitejs.git"
+  },
+  "keywords": [
+    "DOM",
+    "client",
+    "import",
+    "min"
+  ],
+  "author": "ephf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ephf/elitejs/issues"
+  },
+  "homepage": "https://docs.elite-js.cf"
+}
